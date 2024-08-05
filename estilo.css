@@ -1,0 +1,12 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+body{
+    background: rgb(48,148,226);
+    background: linear-gradient(90deg, rgba(48,148,226,1) 10%, rgba(9,72,121,1) 50%, rgba(0,212,255,1) 99%);}
+
+    h2{
+        color: antiquewhite;
+    }
