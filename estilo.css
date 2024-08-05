@@ -10,3 +10,14 @@ body{
     h2{
         color: antiquewhite;
     }
+    
+    IMG{
+width: 80%;
+height: auto;
+border-radius: 10px;
+overflow: hidden;
+    }
+
+    h1{
+        text-align: center;
+    }
